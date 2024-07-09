@@ -1,0 +1,8 @@
+The entirety of this repo is (C) TK, all rights reserved.
+
+There is code in here that is probably sub-optimal or even probably just plain wrong.
+
+Do not use directly.
+
+Most snippets are trivial enough that, if they are correct, anyone would probably have ended up writing them anyway.
+
